@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E7ED0BA0-9766-4F0B-9448-D8C9053D1891</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyMovies</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>98F5FF99A5B235A3CF30830D20620FE415F4C94D</key>
+		<string>https://github.com/jelledebock/My-Movies.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MyMovies.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>98F5FF99A5B235A3CF30830D20620FE415F4C94D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jelledebock/My-Movies.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>98F5FF99A5B235A3CF30830D20620FE415F4C94D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>98F5FF99A5B235A3CF30830D20620FE415F4C94D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>My%20Movies</string>
+		</dict>
+	</array>
+</dict>
+</plist>
